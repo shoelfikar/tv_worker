@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TV Worker</string>
+    <string name="accessibility_description">Otomatis meng-approve dialog ADB debugging saat ada koneksi masuk dari server.</string>
+</resources>
